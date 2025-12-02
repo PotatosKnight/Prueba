@@ -10,6 +10,7 @@ package trabajo1;
  */
 public class Consulta {
     int cip;
+    int CIP;
 
     boolean get(int cip) {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
